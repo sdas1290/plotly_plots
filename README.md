@@ -20,6 +20,4 @@ Where,
 - title = Plot Title, a string 
 
 - You may need to change the title_text for xaxis and yaxis name in layout section.. ("xaxis" , "yaxis" )
-- config = {'displayModeBar': False, "showTips": False, 'responsive': False} , 
-  this config (in line 28 of plotly_sample_module.py) dictionary contain some configarations of plots layout. 
-  this part needs to take with every plot function 
+
